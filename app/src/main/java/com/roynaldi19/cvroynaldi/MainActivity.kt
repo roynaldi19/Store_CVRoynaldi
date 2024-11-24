@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         val link = listOf<LinkModel>(
             LinkModel("Github", R.drawable.github, "https://github.com/roynaldi19"),
-            LinkModel("GoogleDev", R.drawable.adev, "https://github.com/roynaldi19"),
+            LinkModel("GoogleDev", R.drawable.adev, "https://developers.google.com/profile/u/roynaldi19"),
 
             )
 
